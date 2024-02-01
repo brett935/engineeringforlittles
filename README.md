@@ -1,6 +1,6 @@
 # Engineering for Littles
 
-Welcome to **Engineering for Littles** – your premier online destination where curiosity meets the wonders of engineering! Inspired by the joyous learning approach of Ms. Rachel's Songs for Littles, we bring the world of engineering to life for kids and "littles" everywhere. Our mission is to spark a lifelong love for STEM (Science, Technology, Engineering, and Mathematics) through engaging content, interactive learning experiences, and a treasure trove of resources tailored for young minds.
+Welcome to **Engineering for Littles** – your premier online destination where curiosity meets the wonders of engineering! We bring the world of engineering to life for kids and "littles" everywhere. Our mission is to spark a lifelong love for STEM (Science, Technology, Engineering, and Mathematics) through engaging content, interactive learning experiences, and a treasure trove of resources tailored for young minds.
 
 ## What We Offer
 
